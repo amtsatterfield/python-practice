@@ -1,0 +1,1 @@
+All challenges in this repo come from: https://www.practicepython.org/exercise/
